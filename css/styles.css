@@ -1,0 +1,10 @@
+.navbar-custom .navbar-brand {
+  color: #fd7e14;
+ }
+
+.carousel-inner{
+  max-height: 980px !important;
+}
+.carousel-image{
+  max-height: 980px !important;
+}
